@@ -1,0 +1,15 @@
+export const strings = {
+	date_of_birth: 'Date of Birth',
+	date_of_detah: 'Date of Death',
+	qoute: 'Quote',
+	description: 'Description',
+	add_qoute: 'Add Qoute',
+	add_image: 'Add Image',
+	birth_of_date_error_message: 'Birth of Date is required',
+	description_error_message: 'Description is required',
+	image_error_message: 'Image is required',
+	qoute_error_message: 'Qoute is required',
+	add_person: 'Add person',
+	edit_person: 'Edit person',
+	remove_person: 'Remove person',
+};
